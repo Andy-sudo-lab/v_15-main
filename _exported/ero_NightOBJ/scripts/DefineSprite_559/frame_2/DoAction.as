@@ -1,0 +1,1 @@
+_root.keyWaitFlg = true;

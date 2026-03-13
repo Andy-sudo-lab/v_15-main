@@ -1,0 +1,2 @@
+this.stop();
+lv = "start";

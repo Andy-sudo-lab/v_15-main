@@ -1,0 +1,13 @@
+labelF = 3;
+tgF = _parent._parent._parent.flashMC;
+tg = _parent._parent._parent.enemyMC;
+x = tg._x;
+y = tg._y;
+s = tg._xscale;
+r = tg._rotation;
+tg._x = 191;
+tg._y = 139;
+tg._xscale = 120;
+tg._yscale = 120;
+tg._rotation = 10;
+tgF.gotoAndStop("S1");

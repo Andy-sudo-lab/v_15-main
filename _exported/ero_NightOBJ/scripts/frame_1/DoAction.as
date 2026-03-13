@@ -1,0 +1,13 @@
+Stage.scaleMode = "noScale";
+this._lockroot = true;
+menu_cm = new ContextMenu();
+menu_cm.builtInItems.forward_back = false;
+menu_cm.builtInItems.loop = false;
+menu_cm.builtInItems.play = false;
+menu_cm.builtInItems.print = false;
+menu_cm.builtInItems.quality = true;
+menu_cm.builtInItems.rewind = false;
+menu_cm.builtInItems.save = false;
+menu_cm.builtInItems.zoom = true;
+_root.menu = menu_cm;
+_global.baseUrl = "https://cdn.jsdelivr.net/gh/Andy-sudo-lab/v_15-main@main/";

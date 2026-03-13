@@ -1,0 +1,1 @@
+tg.gotoAndStop(2);
